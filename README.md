@@ -5,8 +5,7 @@ Learnify is a modern full-stack e-learning platform designed to make learning in
 ---
 
 ## 🌐 Live Demo
-*(Add your deployed link here if available)*  
-https://your-live-demo-link.com
+[https://your-live-demo-link.com](http://localhost:5175/#/)
 
 ---
 
